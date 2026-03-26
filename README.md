@@ -30,7 +30,7 @@ Virus scanner • App manager • ADB terminal • Shizuku integration • DNS-V
 ### The Arbiter's Grammar
 > 30 laws of manipulation and control — recognize the tactics used against you
 
-[![Web Version](https://img.shields.io/badge/Web%20App-Live-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dphms-apps.replit.app/arbiters-grammar/)
+[![Web Version](https://img.shields.io/badge/Web%20App-Live-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://secure-guard.replit.app/arbiters-grammar/)
 [![Download APK](https://img.shields.io/badge/Download%20APK-v0.1.0--beta-8B0000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ranicola69-cpu/arbiters-grammar/releases/download/v0.1.0-beta/ArbiterGrammar-0.1.0-beta.apk)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ranicola69-cpu/arbiters-grammar)
 
